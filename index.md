@@ -4,4 +4,4 @@
 
 |IP                            |Requirements                      |
 |------------------------------|----------------------------------|
-|mooster311-gmod.ddns.net:27015|[Available](servers/gmodserver.md)|
+|mooster311-gmod.ddns.net:27015|[Available](gmodserver.md)|
