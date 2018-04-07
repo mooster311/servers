@@ -7,4 +7,4 @@
 
 ### IP Address
 
-```mooster311-gmod.ddns.net:27015	```
+```mooster311-servers.ddns.net:27015	```
