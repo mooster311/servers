@@ -3,7 +3,7 @@
 ### Requirements
 
 - [Server Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=900885106)
-- [CS:Source](https://mega.nz/#!iFZERCpY!inVqrmDPoJbjhxXksWNqZm64w9C9jdIsEOabGPshBbs)
+- [CS:Source](https://mega.nz/#!aIYHRYgS!z7ASATWZaxfkiMXzTjgiyEbxvE7ikR9CiVYvOwZqqTM)
 
 ### IP Address
 
